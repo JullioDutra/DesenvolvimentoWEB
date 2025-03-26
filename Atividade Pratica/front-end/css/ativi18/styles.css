@@ -1,0 +1,13 @@
+body {
+    background-image: url(star_guardian_akali.jpg), url(gwenjpg.jpg);
+    background-position: left top, right top;
+    /* Ambas as imagens começam do topo */
+    background-size: 50% 100%;
+    /* Cada imagem ocupa metade da largura e toda a altura */
+    background-repeat: no-repeat, no-repeat;
+    /* Evita repetições */
+    background-attachment: fixed;
+    /* Mantém a imagem fixa ao rolar */
+    margin: 0;
+    height: 100vh;
+}

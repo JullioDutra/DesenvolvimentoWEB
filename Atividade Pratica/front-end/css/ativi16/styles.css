@@ -1,0 +1,18 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1491466424936-e304919aada7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFwZWwlMjBkZSUyMHBhcmVkZSUyMDE5MjB4MTA4MHxlbnwwfHwwfHx8MA%3D%3D');
+    /* URL of an image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* Evita repetição da imagem */
+    height: 100vh;
+    /* Garante que o fundo cubra toda a altura da tela */
+    /* Makes the image cover the entire background */
+    background-position: center;
+    /* Centers the image */
+    color: white;
+    /* Text color */
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin: 0;
+    /* Remove margens padrão do body */
+}

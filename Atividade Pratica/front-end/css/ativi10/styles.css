@@ -1,0 +1,25 @@
+h1 {
+    color: aqua;
+    background-color: gray;
+}
+
+p {
+    color: aquamarine;
+    background-color: blueviolet;
+    padding-left: 100px;
+}
+
+ul {
+    list-style-type: armenian;
+}
+
+li {
+    color: rgb(143, 4, 236);
+    background-color: rgb(9, 170, 170);
+    margin: 50px;
+}
+
+
+li:hover {
+    cursor: pointer;
+}
